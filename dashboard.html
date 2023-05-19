@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <title>
+      Dashboard
+      </title>
+      <meta name = "viewport" content = "width = 1.0; height = 1.0;">
+      <meta charset = "utf-8">
+    </head>
+  <body>
+    <dialog open>
+      <h3>Quasar AI Login</h2>
+      <h6>Good AI Should be free</h6>
+      <hr>
+      
+      Bot Token: <input name = "btok" id = "tok" style = "border-radius: 0; outline: 0" onchange = "localStorage.token = this.value"><br><br>
+      
+    <button onclick = "this.parentElement.remove(); document.body.innerHTML += '<hr> Console Started<br>'; console.log = e => document.body.innerHTML+=e+'<br>'; console.error = console.log;fetch('./main.js').then(r => r.text()).then(eval)" style = "width: 80px; height: 50px; border-radius: 0;">LOGIN</button>
+      </dialog>
+    </body>
+  </html>
