@@ -8,3 +8,21 @@ THIS PROJECT IS NOT DONE YET BUT YOU CAN CONTRIBUTE IN MAKING AI
 Go to https://Zole-s.github.io/ and press "dashboard" buttton.
 You'll be redirected to a dashboard.
 Then, just enter your discord bot token and start messaging! Answers to your question will appear in dashboard console.
+
+# ToDo List:
+
+| Name | Progress  |
+|-----:|-----------|
+|     Autolearn | ✅|
+|     AI | 🔴    |
+|     Frontend Part | ✅       |
+|     Bot Console | ✅ |
+|     Mobile Support| ✅ |
+
+
+# Contrubutors <3
+
+[@Zaary] - Information about neural network learning.
+[@VirusterDev] - Project Hash for generating learning data.
+
+
