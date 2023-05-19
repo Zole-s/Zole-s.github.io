@@ -24,8 +24,9 @@ Then, just enter your discord bot token and start messaging! Answers to your que
 
 # Contrubutors <3
 
-[@Zaary] - Information about neural network learning.
+@Zaary - Information about neural network learning.
 
-[@VirusterDev] - Project Hash for generating learning data.
+@VirusterDev - Project Hash for generating learning data.
 
+You all are the best people in the world, without you all this project would never come
 
